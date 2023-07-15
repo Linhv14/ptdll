@@ -65,7 +65,7 @@ Sau đó chạy lệnh
 ```
 pyinstaller --onefile store.py
 ```
-store.py chính là tên file code, nếu tê file code đặt tên khác thì
+store.py chính là tên file code, nếu tên file code đặt tên khác thì
 chỉnh lại
 
 Sau khi build xong, sẽ xuất hiện thư mục dist, lúc này cần copy file model và past vào trong thư mục dist.
